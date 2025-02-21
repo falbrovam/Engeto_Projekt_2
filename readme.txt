@@ -8,3 +8,5 @@ test_automat.py - pytesty automatickeho testovani
 
 pro uzivatelsky hezci zobrazeni ukolu v task managerovi pouzivam doplnek tabulate
 pip install tabulate
+
+do promenne password_n v komunikace_s_db.py doplnit heslo k mysql
